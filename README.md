@@ -28,4 +28,4 @@ Listez le(s) auteur(s) du projet ici !
 
 ## License
 
-Ce projet est sous licence ``GNU General Public License v3.0 `` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+Ce projet est sous licence ``GNU General Public License v3.0 `` 
