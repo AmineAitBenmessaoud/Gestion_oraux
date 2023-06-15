@@ -14,15 +14,29 @@ Elle contient trois types de comptes:
 Utiliser Xampp dans votre pc pour simuler le projet
 Utiliser accéder directement au projet via https://cpgek.com/colle
 Quelques comptes pour tester :
-Administrateur:
-<b>login :</b>
-<b>password :</b>
-Professeur:
-<b>login :</b>
-<b>password :</b>
-étudiant:
-<b>login :</b>
-<b>password :</b>
+<table>
+  <tr>
+    <th>Type</th>
+    <th>Username</th>
+    <th>Password</th>
+  </tr>
+  <tr>
+    <td>Admin</td>
+    <td>admin</td>
+    <td>Am1234Am1234</td>
+  </tr>
+  <tr>
+    <td>Professeur</td>
+    <td>professeur</td>
+    <td>Am1234Am1234</td>
+  </tr>
+  <tr>
+    <td>élève</td>
+    <td>eleve</td>
+    <td>Am1234Am1234</td>
+  </tr>
+</table>
+
 ## Versions
 Listez les versions ici 
 _exemple :_
